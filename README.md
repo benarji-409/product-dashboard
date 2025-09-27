@@ -17,3 +17,4 @@ Outcome:
 This dashboard helps business stakeholders gain a clear 360° understanding of sales, customer behavior, and product performance. It enables data-driven decision-making to improve revenue, customer targeting, and resource allocation.
 Dashboard Snapshot:
 A snapshot of the Power BI dashboard is included in the repository for quick reference.
+![dashboard preview](https://github.com/benarji-409/product-dashboard/blob/main/screenshot%20of%20the%20product%20dashboard.png)
